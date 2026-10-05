@@ -1,5 +1,6 @@
 # Customer Shopping Behavior Analysis
-"C:\Users\Dhyaneshwari\Downloads\customer-shopping-behavior\customer_shopping_behavior.png"
+<img width="1311" height="735" alt="Screenshot 2026-10-05 114920" src="https://github.com/user-attachments/assets/fc5cf2df-fa80-45fd-a9bc-684f1dd0ea79" />
+
 ## Project Overview
 
 This project analyzes customer shopping behavior using transactional data
